@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "requiredRulemaking": "Issuance and treatment of payment stablecoins",
+      "responsibleRegulator": "Treasury Secretary",
+      "timeline": "July 18, 2026 (one year after enactment)",
+      "status": "<a href='https://home.treasury.gov/news/press-releases/sb0254' rel='noopener' target='_blank'>Advance Notice of Proposed Rulemaking on GENIUS Act Implementation issued by the Department of Treasury on September 18, 2025</a>; as published in the <a href='https://www.federalregister.gov/documents/2025/09/19/2025-18226/genius-act-implementation' rel='noopener' target='_blank'>Federal Register</a> on September 19, 2025 (“<em>Treasury ANPRM</em>”).  Comment period closed November 4, 2025.",
+      "geniusActSection": "§ 3(c)-(d)<br>12 U.S.C. § 5902"
+    },
+    {
+      "requiredRulemaking": "Capital, liquidity, risk management, amendments to capital requirements",
+      "responsibleRegulator": "Treasury Secretary, FDIC, Federal Reserve, OCC, NCUA, and any applicable State Payment Stablecoin Regulator",
+      "timeline": "July 18, 2026 (one year after enactment)",
+      "status": "<p><a href='https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html' rel='noopener' target='_blank'>Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency</a> issued on February 25, 2026; as published in the <a href='https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the' rel='noopener' target='_blank'>Federal Register</a> on March 2, 2026 (“<em>OCC Implementation NPRM</em>”). Comment period closes May 1, 2026.</p><p><a href='https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-04-07-1open?source=govdelivery&utm_medium=email&utm_source=govdelivery' rel='noopener' target='_blank'>GENIUS Act Requirements and Standards for FDIC Supervised Permitted Payment Stablecoin Issuers and Insured Depository Institutions</a> issued on April 7, 2026; as published in the <a href='https://www.federalregister.gov/documents/2026/04/10/2026-06974/genius-act-requirements-and-standards-for-fdic-supervised-permitted-payment-stablecoin-issuers-and' rel='noopener' target='_blank'>Federal Register</a> on April 10, 2026 (“<em>FDIC Implementation NPRM</em>”). Comment period closes June 9, 2026.</p>",
+      "geniusActSection": "§ 4(a)(4)<br>12 U.S.C. § 5903(a)(4)"
+    },
+    {
+      "requiredRulemaking": "General regulations for financial stability and implementation of the principal requirements of § 4(a)",
+      "responsibleRegulator": "OCC, in coordination with other relevant payment stablecoin regulators",
+      "timeline": "July 18, 2026 (one year after enactment)",
+      "status": "OCC Implementation NPRM",
+      "geniusActSection": "§ 4(b)<br>12 U.S.C. § 5903(b)"
+    },
+    {
+      "requiredRulemaking": "General regulations for implementation of and compliance with the principal requirements of § 4(a)",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, NCUA, and any applicable State Payment Stablecoin Regulator",
+      "timeline":"July 18, 2026 (one year after enactment)",
+      "status": "<p>OCC Implementation NPRM</p><p>FDIC Implementation NPRM</p>",
+      "geniusActSection": "§ 4(h)<br>12 U.S.C. § 5903(h)"
+    },
+    {
+      "requiredRulemaking": "Processes for applications by, and regulation and supervision of, Federal qualified payment stablecoin issuers",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, and NCUA",
+      "timeline":"July 18, 2026 (one year after enactment)",
+      "status": "<p>OCC Implementation NPRM</p><p>FDIC Implementation NPRM</p><a href='https://ncua.gov/newsroom/press-release/2026/ncua-proposes-rule-permitted-payment-stablecoin-issuer-applications' rel='noopener' target='_blank'>Investments in and Licensing of Permitted Payment Stablecoins Issuers</a> issued on February 11, 2026; as published in the <a href='https://www.federalregister.gov/documents/2026/02/12/2026-02868/investments-in-and-licensing-of-permitted-payment-stablecoins-issuers' rel='noopener' target='_blank'>Federal Register</a> on February 12, 2026 (“<em>NCUA Licensing NPRM</em>”). Comment period closed April 13, 2026.</p><p><a href='https://www.fdic.gov/news/financial-institution-letters/2025/notice-proposed-rulemaking-establish-genius-act-application' rel='noopener' target='_blank'>Approval Requirements for Issuance of Payment Stablecoins by Subsidiaries of FDIC Supervised Insured Depository Institutions</a> issued on December 16, 2025; as published in the <a href='https://www.federalregister.gov/documents/2025/12/19/2025-23510/approval-requirements-for-issuance-of-payment-stablecoins-by-subsidiaries-of-fdic-supervised-insured' rel='noopener' target='_blank'>Federal Register</a> on December 19, 2025 (“<em>FDIC Licensing NPRM</em>”). Comment period extended from February 17, 2026 to May 18, 2026",
+      "geniusActSection": "§ 5(a)(2)(A)<br>12 U.S.C. § 5904(a)(2)"
+    },
+    {
+      "requiredRulemaking": "Regulation of payment stablecoin issuance",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, and NCUA",
+      "timeline":"July 18, 2026 (one year after enactment)",
+      "status": "<p>OCC Implementation NPRM</p><p>FDIC Implementation NPRM</p><p>NCUA Licensing NPRM</p><p>FDIC Licensing NPRM</p>",
+      "geniusActSection": "§ 5(g)<br>12 U.S.C. § 5904(g)"
+    },
+    {
+      "requiredRulemaking": "Federal Reserve backup enforcement authority against State qualified permitted payment stablecoin issuers in unusual and exigent circumstances",
+      "responsibleRegulator": "Federal Reserve",
+      "timeline":"July 18, 2026 (one year after enactment)",
+      "status": "Pending",
+      "geniusActSection": "§ 7(e)(1)(B)<br>12 U.S.C. § 5906(e)(2)"
+    },
+    {
+      "requiredRulemaking": "Office of the Comptroller of the Currency backup enforcement authority against State qualified permitted payment stablecoin issuers that are nonbanks in unusual and exigent circumstances",
+      "responsibleRegulator": "OCC",
+      "timeline": "July 18, 2026 (one year after enactment)",
+      "status": "OCC Implementation NPRM",
+      "geniusActSection": "§ 7(e)(1)(B)<br>12 U.S.C. § 5906(e)(2)"
+    },
+    {
+      "requiredRulemaking": "Criteria regarding resumption of compliance by a foreign payment stablecoin issuer",
+      "responsibleRegulator": "Treasury Secretary",
+      "timeline":"July 18, 2026 (one year after enactment)",
+      "status": "Treasury ANPRM",
+      "geniusActSection": "§ 8(b)(3)(B)<br>12 U.S.C. § 5907(b)(3)(B)"
+    },
+    {
+      "requiredRulemaking": "Standards for registration requests and appeals process of foreign payment stablecoin issuers",
+      "responsibleRegulator": "OCC",
+      "timeline":"July 18, 2026 (one year after enactment)",
+      "status": "OCC Implementation NPRM",
+      "geniusActSection": "§ 18(c)(1)(E)<br>12 U.S.C. § 5916(c)(1)(E)"
+    },
+    {
+      "requiredRulemaking": "Rules applying BSA/AML and sanctions obligations to permitted payment stablecoin issuers",
+      "responsibleRegulator": "Treasury Secretary",
+      "timeline":"Presumed—July 18, 2026 (one year after enactment) deadline may apply",
+      "status": "<a href='https://home.treasury.gov/news/press-releases/sb0435' rel='noopener' target='_blank'>Payment Stablecoin Issuer Anti Money Laundering/Countering the Financing of Terrorism Program and Sanctions Compliance Program Requirements issued on April 8, 2026</a>; as published in the <a href='https://www.federalregister.gov/documents/2026/04/10/2026-06963/permitted-payment-stablecoin-issuer-anti-money-launderingcountering-the-financing-of-terrorism' rel='noopener' target='_blank'>Federal Register</a> on April 10, 2026 (“Treasury AML NPRM”). Comment period closes June 9, 2026.",
+      "geniusActSection": "§ 4(a)(5)(B)<br>12 U.S.C. § 5903(a)(5)(B)"
+    },
+    {
+      "requiredRulemaking": "Rules implementing the anti tying provision and permitting exceptions",
+      "responsibleRegulator": "Federal Reserve, in consultation with the FDIC, Federal Reserve, OCC, and NCUA as related to exceptions to the anti tying provision",
+      "timeline":"No deadline—regulators “may” issue such orders",
+      "status": "Pending",
+      "geniusActSection": "§ 4(a)(8)(B)<br>12 U.S.C. § 5903(a)(8)(B)"
+    },
+    {
+      "requiredRulemaking": "Rules clarifying the application of ownership limitations, including restrictions on payment stablecoin issuance by U.S. public companies and companies not domiciled in the United States that are “not predominantly engaged” in financial activities",
+      "responsibleRegulator": "Stablecoin Certification Review Committee (Treasury Secretary, Federal Reserve Chair, and FDIC Chair)",
+      "timeline":"July 18, 2026 (one year after enactment)",
+      "status": "Pending",
+      "geniusActSection": "§ 4(a)(12)(D)<br>12 U.S.C. § 5903(a)(12)"
+    },
+    {
+      "requiredRulemaking": "Principles for assessment of whether state regulatory frameworks are “substantially similar” to federal frameworks",
+      "responsibleRegulator": "Treasury Secretary",
+      "timeline":"Presumed—July 18, 2026 (one year after enactment) deadline may apply",
+      "status": "<a href='https://home.treasury.gov/news/press-releases/sb0428' rel='noopener' target='_blank'>GENIUS Act Broad Based Principles for Determining Whether a State Level Regulatory Regime Is Substantially Similar to the Federal Regulatory Framework issued on April 1, 2026 </a>; as published in the <a href='https://www.federalregister.gov/documents/2026/04/03/2026-06489/genius-act-broad-based-principles-for-determining-whether-a-state-level-regulatory-regime-is' rel='noopener' target='_blank'>Federal Register</a> on April 3, 2026 (<em>“Treasury Substantially Similar NPRM”</em>). Comment period closes June 2, 2026.",
+      "geniusActSection": "§ 4(c)(2)<br>12 U.S.C. § 5903(c)(2)"
+    },
+    {
+      "requiredRulemaking": "Certifications from state payment stablecoin regulators that the state level regulatory regime satisfies applicable criteria and is “substantially similar” to the federal framework, and annual recertifications of the accuracy of the initial certification",
+      "responsibleRegulator": "State Payment Stablecoin Regulator",
+      "timeline":"July 18, 2026 (one year after enactment)",
+      "status": "Pending",
+      "geniusActSection": "§ 4(c)(4)<br>12 U.S.C. § 5903(c)(4)"
+    },
+    {
+      "requiredRulemaking": "Established process for expedited review of state regimes for substantial similarity to the federal regime if the state has a prudential regulatory regime in effect by January 14, 2026",
+      "responsibleRegulator": "Stablecoin Certification Review Committee (Treasury Secretary, Federal Reserve Chair, and FDIC Chair)",
+      "timeline":"Responsible regulator shall endeavor for the process must be in effect by January 14, 2026 to enable expedited review",
+      "status": "Pending",
+      "geniusActSection": "§ 4(c)(7)<br>12 U.S.C. § 5903(c)(7)"
+    },
+    {
+      "requiredRulemaking": "State level requirements for state qualified payment stablecoin issuers may be issued to the same extent as federal regulations",
+      "responsibleRegulator": "State Payment Stablecoin Regulator",
+      "timeline":"No deadline—regulators “may” issue such orders",
+      "status": "Pending",
+      "geniusActSection": "§ 7(d)<br>12 U.S.C. § 5906(d)"
+    },
+    {
+      "requiredRulemaking": "Public comment on anti money laundering innovation",
+      "responsibleRegulator": "Treasury Secretary",
+      "timeline":"Beginning August 17, 2025 for a period of 60 days",
+      "status": "<p>Treasury ANPRM</p><p><a href='https://home.treasury.gov/news/press-releases/sb0228' rel='noopener' target='_blank'>Treasury Issues Request for Comment Related to the Guiding and Establishing National Innovation for U.S. Stablecoins (GENIUS) Act issued on August 18, 2025</a>; comment period closed October 17, 2025 (<em>“Treasury Illicit Finance RFC”</em>).",
+      "geniusActSection": "§ 9(a)<br>12 U.S.C. § 5908(a)"
+    },
+    {
+      "requiredRulemaking": "Rulemaking to mitigate illicit financial activity",
+      "responsibleRegulator": "FinCEN",
+      "timeline":"July 18, 2028 (three years after enactment)",
+      "status": "Treasury AML NPRM",
+      "geniusActSection": "§ 9(d)<br>12 U.S.C. § 5908(a)"
+    },
+    {
+      "requiredRulemaking": "Prescribe terms and conditions under which exceptions to custody requirements apply",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, and NCUA",
+      "timeline":"No deadline—regulators “may” issue such orders",
+      "status": "Pending",
+      "geniusActSection": "§ 10(c)(2)(C)<br>12 U.S.C. § 5909(c)(2)(C)"
+    },
+    {
+      "requiredRulemaking": "Assessment of the necessity of interoperability standards among permitted payment stablecoin issuers and the broader digital finance ecosystem",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, and NCUA, in consultation with NIST",
+      "timeline":"Unclear—July 18, 2026 (one year after enactment) deadline may apply",
+      "status": "Pending",
+      "geniusActSection": "§ 12<br>12 U.S.C. § 5912"
+    },
+    {
+      "requiredRulemaking": "Review of existing regulations applicable to regulated entities",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, and NCUA",
+      "timeline":"Unclear—July 18, 2026 (one year after enactment) deadline may apply",
+      "status": "Pending",
+      "geniusActSection": "§ 16(b)<br>12 U.S.C. § 5915(b)"
+    },
+    {
+      "requiredRulemaking": "Issuance of rules that may be required to regulate foreign payment stablecoin issuers offering and selling payment stablecoins in the United States",
+      "responsibleRegulator": "Treasury Secretary",
+      "timeline":"July 18, 2026 (one year after enactment)",
+      "status": "Treasury ANPRM",
+      "geniusActSection": "§ 18(b)(6)<br>12 U.S.C. § 5916(b)(6)"
+    },
+    {
+      "requiredRulemaking": "Creation and implementation of reciprocal arrangements or bilateral agreements between the U.S. and comparable payment stablecoin regulatory regimes",
+      "responsibleRegulator": "Treasury Secretary",
+      "timeline":"July 18, 2027 (two years after enactment)",
+      "status": "Treasury ANPRM",
+      "geniusActSection": "§ 18(d)(3)<br>12 U.S.C. § 5916(d)(3)"
+    }
+  ]
+}

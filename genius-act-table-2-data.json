@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "requiredReports": "Justification for the determination of Unusual and Exigent Circumstances in approving safe harbors",
+      "responsibleRegulator": "Treasury Secretary",
+      "dueDate": "Prior to issuing such safe harbor",
+      "status": "Pending",
+      "geniusActSection": "§ 3(c)<br>12 U.S.C. § 5902"
+    },
+    {
+      "requiredReports": "National security coordination with permitted payment stablecoin issuers",
+      "responsibleRegulator": "Attorney General and Treasury Secretary",
+      "dueDate": "July 18, 2026 (one year after enactment)",
+      "status": "Pending",
+      "geniusActSection": "§ 4(a)(6)(C)<br>12 U.S.C. § 5903(a)(6)(C)"
+    },
+    {
+      "requiredReports": "Notification to Congress upon beginning the processing of applications from prospective permitted payment stablecoin issuers",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, and NCUA",
+      "dueDate": "As needed",
+      "status": "Pending",
+      "geniusActSection": "§ 5(e)<br>12 U.S.C. § 5904(e)"
+    },
+    {
+      "requiredReports": "Annual reports to Congress on applications from prospective permitted payment stablecoin issuers that have been pending for at least 180 days",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, and NCUA",
+      "dueDate": "Annually",
+      "status": "Pending",
+      "geniusActSection": "§ 5(e)<br>12 U.S.C. § 5904(e)"
+    },
+    {
+      "requiredReports": "Reports regarding secondary trading of a payment stablecoin issued by a foreign payment stablecoin issuer",
+      "responsibleRegulator": "Treasury Secretary",
+      "dueDate": "As needed within seven days after the applicable waiver or license is issued",
+      "status": "Pending",
+      "geniusActSection": "§ 8(c)(4)<br>12 U.S.C. § 5907(c)(4)"
+    },
+    {
+      "requiredReports": "Report addressing illicit finance related recommendations, including detection, risk assessment, and legislative recommendations",
+      "responsibleRegulator": "Treasury Secretary",
+      "dueDate": "January 14, 2026 (180 days after enactment)",
+      "status": "<a href='https://home.treasury.gov/system/files/246/GENIUS-Act-Illicit-Finance-Innovation-Congressional-Report-March-2026.pdf' rel='noopener' target='_blank'>Report to Congress from the Secretary of the Treasury on Innovative Technologies to Counter Illicit Finance Involving Digital Assets (March 2026)</a>",
+      "geniusActSection": "§ 9(e)<br>12 U.S.C. § 5908(e)"
+    },
+    {
+      "requiredReports": "Report providing findings of a study regarding insolvency proceedings of permitted payment stablecoin issuers",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, and NCUA",
+      "dueDate": "July 18, 2028 (three years after enactment)",
+      "status": "Pending",
+      "geniusActSection": "§ 11(h)<br>12 U.S.C. § 5910"
+    },
+    {
+      "requiredReports": "Report confirming and describing regulations issued to carry out the GENIUS Act",
+      "responsibleRegulator": "Federal Banking Agencies (FDIC, Federal Reserve, OCC)",
+      "dueDate": "January 14, 2026 (180 days after enactment)",
+      "status": "Pending",
+      "geniusActSection": "§ 13(c)<br>12 U.S.C. § 5913(c)"
+    },
+    {
+      "requiredReports": "Report providing findings of a study of non payment stablecoins, including endogenously collateralized stablecoins",
+      "responsibleRegulator": "Treasury Secretary",
+      "dueDate": "July 18, 2026 (one year after enactment)",
+      "status": "Pending",
+      "geniusActSection": "§ 14(a)(2)<br>12 U.S.C. § 5914(a)(2)"
+    },
+    {
+      "requiredReports": "Report providing information on the status of the payment stablecoin industry, including trends, applications for permitted payment stablecoin issuer status, and potential financial stability risks",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, NCUA, and any applicable State Payment Stablecoin Regulator",
+      "dueDate": "July 18, 2026 (one year after enactment)",
+      "status": "Pending",
+      "geniusActSection": "§ 15(a)<br>12 U.S.C. § 5914(a)"
+    },
+    {
+      "requiredReports": "Incorporation of the above report into its annual report to Congress pursuant to the Dodd Frank Act",
+      "responsibleRegulator": "Financial Stability Oversight Council",
+      "dueDate": "Annually, beginning July 18, 2026 (one year after enactment)",
+      "status": "Pending",
+      "geniusActSection": "§ 15(b)<br>12 U.S.C. § 5914(b)"
+    }
+ ]
+}
