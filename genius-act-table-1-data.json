@@ -9,7 +9,7 @@
     },
     {
       "requiredRulemaking": "Capital, liquidity, risk management, amendments to capital requirements",
-      "responsibleRegulator": "Treasury Secretary, FDIC, Federal Reserve, OCC, NCUA, and any applicable State Payment Stablecoin Regulator",
+      "responsibleRegulator": "FDIC, Federal Reserve, OCC, NCUA, and any applicable State Payment Stablecoin Regulator",
       "timeline": "July 18, 2026 (one year after enactment)",
       "status": "<p><a href='https://www.occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html' rel='noopener' target='_blank'>Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency</a> issued on February 25, 2026; as published in the <a href='https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the' rel='noopener' target='_blank'>Federal Register</a> on March 2, 2026 (“<em>OCC Implementation NPRM</em>”). Comment period closes May 1, 2026.</p><p><a href='https://www.fdic.gov/news/board-matters/2026/board-meeting-2026-04-07-1open' rel='noopener' target='_blank'>GENIUS Act Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers and Insured Depository Institutions issued on April 7, 2026</a>; as published in the <a href='https://www.federalregister.gov/documents/2026/04/10/2026-06974/genius-act-requirements-and-standards-for-fdic-supervised-permitted-payment-stablecoin-issuers-and' rel='noopener' target='_blank'>Federal Register</a> on April 10, 2026 (“<em>FDIC Implementation NPRM</em>”).</p><p><a href='https://ncua.gov/newsroom/press-release/2026/ncua-announces-proposed-rule-permitted-payment-stablecoin-issuer-standards?ct=YToxOntzOjQ6InN0YXQiO3M6MjI6IjZhMDc2MDIzNjMwM2Y4MTQ1MTU1OTgiO30%3D' rel='noopener' target='_blank'>Implementing the Guiding and  Establishing National Innovation for U.S. Stablecoins Act for the  Issuance of Stablecoins by Entities Subject to the Jurisdiction of the National Credit Union  Administration; as published in the Federal Register on May 18, 2026 (“<em>NCUA Implementation NPRM</em>”)</a>. Comment period closes July 17, 2026.</p>",
       "geniusActSection": "§ 4(a)(4) 12 U.S.C. § 5903(a)(4)"
@@ -60,7 +60,7 @@
       "requiredRulemaking": "Regulation of payment stablecoin issuance",
       "responsibleRegulator": "FDIC, Federal Reserve, OCC, and NCUA",
       "timeline":"July 18, 2026 (one year after enactment)",
-      "status": "<p>OCC Implementation NPRM</p><p>FDIC Implementation NPRM</p><p>NCUA Implementation NCUA</p><p>NCUA Licensing NPRM</p><p>FDIC Licensing NPRM</p>",
+      "status": "<p>OCC Implementation NPRM</p><p>FDIC Implementation NPRM</p><p>NCUA Implementation NPRM</p><p>NCUA Licensing NPRM</p><p>FDIC Licensing NPRM</p>",
       "geniusActSection": "§ 5(g) 12 U.S.C. § 5904(g)"
     },
     {
